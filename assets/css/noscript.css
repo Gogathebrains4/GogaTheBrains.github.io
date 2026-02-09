@@ -1,0 +1,45 @@
+@import url(font-awesome.min.css);
+
+/*
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Wrapper */
+
+	#wrapper {
+		background-color: #212931;
+		background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
+		background-size: auto,								auto,														100% auto;
+		background-position: center,								center,														top center;
+		background-repeat: repeat,								no-repeat,													no-repeat;
+		background-attachment: fixed,								fixed,														fixed;
+	}
+
+		#wrapper.fade-in:before {
+			display: none;
+		}
+
+/* Intro */
+
+	body.is-preload #intro {
+		opacity: 1;
+	}
+
+		body.is-preload #intro:not(.hidden) + #header + #nav {
+			-moz-transform: none;
+			-webkit-transform: none;
+			-ms-transform: none;
+			transform: none;
+			opacity: 1;
+		}
+	/* Brand/original colors for social icons */
+.icons a.whatsapp { color: #25D366 !important; }   /* WhatsApp green */
+.icons a.linkedin { color: #0A66C2 !important; }   /* LinkedIn blue */
+.icons a.github   { color: #181717 !important; }   /* GitHub black */
+
+/* Keep the brand colors on hover/focus too */
+.icons a.whatsapp:hover, .icons a.whatsapp:focus { color: #25D366 !important; }
+.icons a.linkedin:hover, .icons a.linkedin:focus { color: #0A66C2 !important; }
+.icons a.github:hover,   .icons a.github:focus   { color: #181717 !important; }
