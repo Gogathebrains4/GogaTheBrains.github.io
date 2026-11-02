@@ -3,7 +3,31 @@
 Welcome to my project portfolio.
 This repository highlights selected projects in data analytics, machine learning, SQL, Excel, and business intelligence. Each project focuses on solving real-world problems using data-driven approaches.
 
-🚀 Featured Project
+🚀 Featured Projects
+
+🌊 North England River Water Quality Analysis Using R
+
+October 30, 2026
+
+Analysed river water quality data across North England between 2023 and 2025 using R. Applied data cleaning, statistical testing, correlation analysis, and data visualisation to identify trends and relationships across water quality indicators, sampling locations, and catchments, generating insights to support environmental monitoring and decision-making.
+
+Tools & Skills: R, Data Cleaning, Exploratory Data Analysis, Statistical Analysis, Correlation Analysis, Data Visualisation
+
+GitHub:
+https://github.com/Gogathebrains4/water_quality_analysis
+
+🐍 Python Event Management System
+
+October 16, 2026
+
+Developed a Python-based event management application that allows users to create, view, update, and manage event records. The project uses object-oriented programming and CSV file handling for data storage and management, with unit testing to validate application functionality.
+
+Tools & Skills: Python, Object-Oriented Programming, CSV File Handling, Unit Testing
+
+GitHub:
+https://github.com/Gogathebrains4/python_event_manager
+
+
 🔹 Loan Prediction Application Using Python
 
 August 21, 2025
@@ -17,6 +41,17 @@ https://github.com/Gogathebrains4/loan_predicton_application
 
 Article:
 https://medium.com/@ogbechewisdom1/loan-default-prediction-system-from-data-to-dashboard-737b25ff45f9
+
+📊 Plateau State Government Achievements Analysis Using Power BI
+
+February 19, 2026
+
+Designed an interactive Power BI dashboard analysing the achievements of the Plateau State Government from May 2023 to February 2026 across four key areas: infrastructure, healthcare, agriculture, and an executive summary. The dashboard tracks government investments, project milestones, service delivery outcomes, and resource allocation, providing data-driven insights into government performance and development initiatives.
+
+Tools & Skills: Microsoft Power BI, DAX, Excel, Data Modelling, Data Visualisation, KPI Tracking, Dashboard Design
+
+Github:
+https://github.com/Gogathebrains4/Plateau_State_Government_Achivements_May-2023-Febraury-2026
 
 📊 Global Layoffs Data Analysis Using MySQL
 
